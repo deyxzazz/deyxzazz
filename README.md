@@ -1,11 +1,11 @@
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
+# 👋 Hi, I'm deyxzazz
+
+**C# Developer • Reverse Engineering • Game Security**
 
 ### ⚡ About Me
 - 🔭 Building tools for **Unity Reverse Engineering**, **IL2CPP Protection**, and **Desktop Automation**.
-- 🛠️ Main stack: **C# (.NET 8)**, **Avalonia UI / WPF**, **x64 Assembly / PE internals**, **Unity**.
-- 🛡️ Creator of **[AntiDumpTool](https://github.com/deyxzazz/Anti-Dump-Tool)** and **Spy** (Unity asset & metadata explorer).
+- 🛠️ Main stack: **C# (.NET 8)**, **Avalonia UI / WPF**, **x64 Assembly / PE Internals**, **Unity**.
+- 🛡️ Creator of **[AntiDumpTool](https://github.com/deyxzazz/Anti-Dump-Tool)** and **Spy**.
 
 ---
 
@@ -27,9 +27,3 @@
 | **[AntiDumpTool](https://github.com/deyxzazz/Anti-Dump-Tool)** | Standalone PE patcher (`.guard` section + IAT hook) & metadata protector for Unity IL2CPP builds | `C#` `Avalonia` `x64 ASM` |
 | **Spy** | Unity assembly decompiler & asset bundle extractor | `C#` `Avalonia` `Mono/IL2CPP` |
 
----
-
-<div align="center">
-  <img src="https://vercel.app" height="165" />
-  <img src="https://vercel.app" height="165" />
-</div>
