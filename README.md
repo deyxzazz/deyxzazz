@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
 
-<!--
-**deyxzazz/deyxzazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ About Me
+- 🔭 Building tools for **Unity Reverse Engineering**, **IL2CPP Protection**, and **Desktop Automation**.
+- 🛠️ Main stack: **C# (.NET 8)**, **Avalonia UI / WPF**, **x64 Assembly / PE internals**, **Unity**.
+- 🛡️ Creator of **[AntiDumpTool](https://github.com/deyxzazz/Anti-Dump-Tool)** and **Spy** (Unity asset & metadata explorer).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-991B1B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET_8-DC2626?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64_Assembly-7F1D1D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PE_Internals-EF4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Avalonia_WPF-B91C1C?style=for-the-badge" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[AntiDumpTool](https://github.com/deyxzazz/Anti-Dump-Tool)** | Standalone PE patcher (`.guard` section + IAT hook) & metadata protector for Unity IL2CPP builds | `C#` `Avalonia` `x64 ASM` |
+| **Spy** | Unity assembly decompiler & asset bundle extractor | `C#` `Avalonia` `Mono/IL2CPP` |
+
+---
+
+<div align="center">
+  <img src="https://vercel.app" height="165" />
+  <img src="https://vercel.app" height="165" />
+</div>
