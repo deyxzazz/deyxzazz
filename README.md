@@ -27,3 +27,6 @@
 | **[AntiDumpTool](https://github.com/deyxzazz/Anti-Dump-Tool)** | Standalone PE patcher (`.guard` section + IAT hook) & metadata protector for Unity IL2CPP builds | `C#` `Avalonia` `x64 ASM` |
 | **Spy** | Unity assembly decompiler & asset bundle extractor | `C#` `Avalonia` `Mono/IL2CPP` |
 
+
+
+<img width="1079" height="966" alt="изображение" src="https://github.com/user-attachments/assets/348d0057-6d03-4574-889d-86eb2c373582" />
