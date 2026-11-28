@@ -24,7 +24,7 @@
 | **[Spy](https://github.com/deyxzazz/Spy)** | Unity reverse-engineering suite: C# decompiler, IL patcher, asset editor & built-in IL2CPP dumper | `C# (.NET 9)` `Avalonia` `Mono/IL2CPP` |
 
 <img width="203" height="74" alt="изображение" src="https://github.com/user-attachments/assets/e7822c95-a14d-477e-bff4-c017bafef985" />
-top gay!
+это сын каки, запомните
 
 
 
