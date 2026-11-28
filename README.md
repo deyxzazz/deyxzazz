@@ -10,12 +10,8 @@
 ---
 
 #### 🧰 Tech Stack & Tools
-<img src="https://img.shields.io/badge/C%23-991B1B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/.NET_9-DC2626?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/x64_Assembly-7F1D1D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PE_Internals-EF4444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Avalonia_WPF-B91C1C?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/C%23-991B1B?style=for-the-badge" /> <img src="https://img.shields.io/badge/.NET_9-DC2626?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/x64_Assembly-7F1D1D?style=for-the-badge" /> <img src="https://img.shields.io/badge/PE_Internals-EF4444?style=for-the-badge" /> <img src="https://img.shields.io/badge/Avalonia_WPF-B91C1C?style=for-the-badge" />
+  
 ---
 
 #### 📌 Featured Projects
