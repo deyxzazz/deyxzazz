@@ -1,4 +1,5 @@
-# 👋 Hi, I'm deyxzazz
+# [![Typing SVG](https://demolab.com)](https://git.io)
+
 
 **C# Developer • Reverse Engineering • Game Security**
 
