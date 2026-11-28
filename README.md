@@ -1,4 +1,5 @@
-# [![Typing SVG](https://demolab.com)](https://git.io)
+# <img src="https://demolab.com" alt="?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&vCenter=true&width=550&lines=HI%2C+I'M+DEYXZAZZ;C%23+%26+.NET+9+DEVELOPER;UNITY+REVERSE+ENGINEER
+" />
 
 
 **C# Developer • Reverse Engineering • Game Security**
